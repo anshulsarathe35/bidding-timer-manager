@@ -1,0 +1,22 @@
+{
+  "name": "bidding-timer-manager",
+  "version": "1.0.0",
+  "description": "In a bidding application, this package can manage timers for each bidding session. When a timer ends, the package will trigger the associated callback, notifying the backend or frontend to finalize the auction.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshulsarathe35/bidding-timer-manager.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Anshul Sarathe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anshulsarathe35/bidding-timer-manager/issues"
+  },
+  "homepage": "https://github.com/anshulsarathe35/bidding-timer-manager#readme"
+}
